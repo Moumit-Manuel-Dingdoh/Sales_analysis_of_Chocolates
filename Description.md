@@ -1,0 +1,3 @@
+# Sales_analysis_of_Chocolates
+
+This project analyzes chocolate sales data using SQL. Key operations include displaying tables in the database, describing the sales table structure, and viewing all records. Specific columns like SaleDate, Amount, and Boxes are examined, with calculations such as Amount per Box. Filters are applied to show amounts greater than 10,000 and sales within specific date ranges. Additional queries categorize amounts, show boxes sold on Fridays, and analyze sales by teams and salespersons. The project also involves joining tables to correlate sales data with products and regions, and summarizing total amounts and boxes sold in each geographic area.
